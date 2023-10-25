@@ -1,1 +1,1 @@
-THIS will create a conflict
+The conflict is resolved.
